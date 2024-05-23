@@ -1,0 +1,34 @@
+<resources>
+    <string name="title">Yoga Power</string>
+    <string name="app_title">Yoga Power</string>
+    <string name="part_a">About Yoga Day</string>
+    <string name="part_b">About Yoga</string>
+    <string name="part_c">Standing</string>
+    <string name="part_d">Seating</string>
+    <string name="part_e">Lying</string>
+    <string name="part_f">Meditation</string>
+    <string name="download">DOWNLOAD</string>
+    <string name="readPDF">READ</string>
+    <string name="offline">PLAY OFFLINE</string>
+    <string name="online">PLAY ONLINE</string>
+    <string name="marqueLine">Welcome to Yoga Power Application.</string>
+
+    <string name="app_title_hindi">योग शक्ति</string>
+    <string name="part_a_hindi">योग दिवस के बारे में</string>
+    <string name="part_b_hindi">योग के बारे में</string>
+    <string name="part_c_hindi">योग खड़े हो कर</string>
+    <string name="part_d_hindi">योग बैठ कर</string>
+    <string name="part_e_hindi">योग लेट कर</string>
+    <string name="part_f_hindi">योग ध्यान लगा कर</string>
+    <string name="download_hindi">डाउनलोड</string>
+    <string name="readPDF_hindi">पढ़े</string>
+    <string name="offline_hindi">प्ले ऑफलाइन</string>
+    <string name="online_hindi">प्ले ऑनलाइन</string>
+    <string name="marqueLine_hindi">Welcome to Yoga Power Application.</string>
+
+    <string-array name="dialog_single_choice_array">
+        <item>Hindi</item>
+        <item>English</item>
+    </string-array>
+
+</resources>

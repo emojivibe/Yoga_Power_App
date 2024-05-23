@@ -1,0 +1,56 @@
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_margin="5dp"
+>
+
+  <LinearLayout
+      android:id="@+id/linearLayout"
+      android:orientation="horizontal"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+
+
+      <RelativeLayout
+          android:layout_width="150dp"
+          android:layout_height="100dp">
+
+          <ImageView
+              android:scaleType="fitXY"
+              android:id="@+id/imageViewVideo"
+              android:layout_width="150dp"
+              android:layout_height="100dp"
+              android:layout_alignParentBottom="true"
+              android:layout_alignParentTop="true"
+              android:src="@drawable/logo" />
+
+          <TextView
+              android:id="@+id/textViewTime"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_alignParentRight="true"
+              android:layout_alignParentBottom="true"
+              android:background="#cd000000"
+              android:padding="7dp"
+              android:text="10:20"
+              android:textColor="#fff"
+              android:textSize="14dp"
+              android:textStyle="bold"
+              tools:ignore="TextSizeCheck" />
+
+
+      </RelativeLayout>
+
+      <TextView
+          android:id="@+id/textViewName"
+          android:layout_margin="@dimen/activity_horizontal_margin"
+          android:textSize="18sp"
+          android:text="About Yoga Day"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content" />
+
+  </LinearLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "505728818660",
+    "firebase_url": "https://yoga-power.firebaseio.com",
+    "project_id": "yoga-power",
+    "storage_bucket": "yoga-power.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505728818660:android:35a4245534724e01",
+        "android_client_info": {
+          "package_name": "cdac.com.yogaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505728818660-bjprd8dpko4pnveoftk2770c421nbm9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBFKQMFsjJH2jsKHJrxXx63lssJbx9hiM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
