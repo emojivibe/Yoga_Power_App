@@ -1,4 +1,4 @@
-# Project Title
+# Yoga Power App
 
 Yoga Power App is a comprehensive application designed to enhance your yoga practice. The app leverages Node.js and Multer for backend operations, while Media3 and ExoPlayer are utilized for the frontend to deliver a seamless multimedia experience. 
 
